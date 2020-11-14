@@ -1,0 +1,7 @@
+.vs/GrpcServiceDemo/v16/.suo
+/GrpcServiceBackend/bin/Debug/net5.0
+/GrpcServiceBackend/obj
+/gRPC_Client/bin/Debug/netcoreapp3.1
+/gRPC_Client/obj
+/gRPC_WeatherService/bin/Debug/net5.0
+/gRPC_WeatherService/obj

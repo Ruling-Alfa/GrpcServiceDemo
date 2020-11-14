@@ -1,0 +1,7 @@
+<h3 class="text-center my-4 ">Weather Details:</h3>
+<div class="container">
+    <div *ngFor="let item of weatherResponse" class="row">
+        <div class="text-center col-md-6">City: {{item.array[0]}}</div>
+        <div class="text-center col-md-6">Temp: {{item.array[1]}}</div>
+    </div>
+</div>
